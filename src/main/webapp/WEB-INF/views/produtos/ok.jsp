@@ -7,8 +7,8 @@
 <title>Livros de Java, Android, iPhone, Ruby, PHP e muito mais - Casa do Código</title>
 </head>
 <body>
-    <h1>Casa do Código</h1>
-</body>
 
+	<h1>Produto cadastrado com sucesso</h1>
+	
 </body>
 </html>
